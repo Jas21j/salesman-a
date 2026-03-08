@@ -1,4 +1,4 @@
-# Salesman Solutions — Website (Salesman B)
+# Salesman Solutions — Website (Salesman A)
 
 Production-grade website for Salesman Solutions, a platform venture architecture company.  
 This repository contains **only the website** and its dependencies.
